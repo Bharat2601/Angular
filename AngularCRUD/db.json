@@ -1,0 +1,69 @@
+{
+  "posts": [
+    {
+      "id": 2,
+      "firstName": "Rajan",
+      "lastName": "Krishna",
+      "email": "rajan.krishna@gmail.com",
+      "mobile": "6789543210",
+      "salary": "50000"
+    },
+    {
+      "id": 4,
+      "firstName": "testest",
+      "lastName": "testest",
+      "email": "testest@gmail.com",
+      "mobile": "2342478586",
+      "salary": "3578888"
+    },
+    {
+      "id": 5,
+      "firstName": "bharat",
+      "lastName": "Batchu",
+      "email": "batchu.bharat@gmail.com",
+      "mobile": "3543788723",
+      "salary": "325373"
+    },
+    {
+      "id": 7,
+      "firstName": "bhajgdb",
+      "lastName": "bhabfaby",
+      "email": "bhbafiayighi",
+      "mobile": "3463647",
+      "salary": "364885858"
+    }
+  ],
+  "signupUsers": [
+    {
+      "fullname": "Bharat Batchu",
+      "email": "bharatlalit@gmail.com",
+      "password": "Rajan@1349",
+      "mobile": 9490855478,
+      "id": 1
+    },
+    {
+      "fullname": "Test Demo",
+      "email": "test.demo@gmail.com",
+      "password": "Demo@2601",
+      "mobile": 6790536809,
+      "id": 2
+    },
+    {
+      "fullname": "Raja Kumar",
+      "email": "raja@gmail.com",
+      "password": "123456",
+      "mobile": 7654345678,
+      "id": 3
+    },
+    {
+      "fullname": "",
+      "email": "",
+      "password": "",
+      "mobile": "",
+      "id": 4
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
